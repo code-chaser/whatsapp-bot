@@ -8,7 +8,10 @@ Simple WhatsApp bot in Python.
 ### Environment Variables
 ```env
 # Following environment variables are required
-WHATSAPP_ACCESS_TOKEN=""
 FACEBOOK_API_VERSION=""
+FACEBOOK_APP_ID=""
+FACEBOOK_APP_SECRET=""
+WHATSAPP_ACCESS_TOKEN=""
 WHATSAPP_PHONE_NUMBER_ID=""
+WHATSAPP_RECIPIENT_ID=""
 ```
